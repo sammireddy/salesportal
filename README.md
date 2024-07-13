@@ -155,7 +155,10 @@ When designing a system for buying or enrolling in an insurance policy, several 
 By considering these non-functional requirements, the system for buying or enrolling in an insurance policy will be well-equipped to provide a reliable, secure, and efficient service to its users, while also being easy to maintain and scale.
 
 **Architecture Diagrams:**
+
 ![](Aspose.Words.a18a93fe-e05a-4998-b598-58a74a11eac2.002.png)
+
+![](Aspose.Words.a18a93fe-e05a-4998-b598-58a74a11eac2.003.png))
 
 ![A screenshot of a computer
 
@@ -167,6 +170,8 @@ Description automatically generated](Aspose.Words.a18a93fe-e05a-4998-b598-58a74a
 
 
 **Security Model**
+
+![](Aspose.Words.a18a93fe-e05a-4998-b598-58a74a11eac2.004.png)
 
 ![A screenshot of a computer
 
